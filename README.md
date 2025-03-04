@@ -12,7 +12,7 @@ El dashboard contiene tres páginas diferentes con la información más relevant
 
 En la página principal se incluye un botón que permite filtrar la información según la Fecha de venta, en caso de que se requiera realizar un análisis más específico. Asimismo, en la segunda página se encuentra una visualización de mayor tamaño del mapa con las ventas por Estado, en caso de que se requiera apreciar esta información con mayor detalle. Finalmente, se incluyó una tercer página con los detalles por cliente, con la intención de que el cliente necesite conocer quiénes son sus mejores compradores, así como cuales son los productos que más consumen.
 
-![Imagen5](https://github.com/user-attachments/assets/b6b3a6c1-405f-40d6-b191-5f8d6d341bbb)
+![Imagen5](https://github.com/user-attachments/assets/84618d18-0d18-4799-9f5a-4e8ff8489885)
 
 ![Imagen6](https://github.com/user-attachments/assets/0314ce28-d47b-4100-a178-e5213dbbbb01)
 
